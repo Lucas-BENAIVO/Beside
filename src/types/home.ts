@@ -38,6 +38,8 @@ export type HeroData = {
   mainStat: GlassStat;
   imageCaption: string;
   side: HeroSideBlock;
+  emailAria: string;
+  scrollAria: string;
 };
 
 export type ShowcaseItem = {

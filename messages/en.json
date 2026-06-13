@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "title": "Beside — You care for your loved one. We help you cope.",
+    "description": "Beside helps family caregivers track their loved one's health, organize appointments, and share the load with family."
+  },
+  "header": {
+    "brandTagline": "for caregivers",
+    "nav": {
+      "features": "Features",
+      "mutualInsurance": "Insurers",
+      "companies": "Companies",
+      "contact": "Contact us"
+    },
+    "auth": {
+      "login": "Log in",
+      "signup": "Sign up"
+    }
+  },
+  "home": {
+    "hero": {
+      "tags": {
+        "health": "Health",
+        "organization": "Organization",
+        "wellbeing": "Well-being"
+      },
+      "headline": "YOU CARE FOR YOUR LOVED ONE. WE HELP YOU COPE.",
+      "highlightedWords": ["LOVED", "COPE"],
+      "description": "Beside centralizes medications, appointments, and alerts for caregivers juggling work, family, and a parent's health.",
+      "ctaPrimary": "Get started for free",
+      "ctaSecondary": "Explore",
+      "mainStat": "Caregivers supported every month",
+      "imageCaption": "Less stress, more peace of mind",
+      "sideLabel": "Caregiver journey",
+      "exploreLabel": "Explore available support",
+      "sideStat": "Medication reminders managed on average per week",
+      "sideTags": {
+        "prevention": "Prevention",
+        "autonomy": "Autonomy"
+      },
+      "emailAria": "Receive tips by email",
+      "scrollAria": "Scroll down"
+    },
+    "images": {
+      "mainAlt": "Smiling senior woman in her living room",
+      "sideAlt": "Caregiver organizing medical follow-up on a laptop",
+      "portraitAlt": "Professional woman, typical family caregiver profile"
+    },
+    "showcase": {
+      "items": {
+        "medications": {
+          "title": "Medication tracking",
+          "category": "Reminders",
+          "description": "Never miss a dose or a prescription renewal again."
+        },
+        "appointments": {
+          "title": "Appointments",
+          "category": "Organization",
+          "description": "Shared family calendar for medical consultations."
+        },
+        "family": {
+          "title": "Family network",
+          "category": "Sharing",
+          "description": "Split tasks and avoid carrying everything alone."
+        }
+      },
+      "article": {
+        "tags": {
+          "prevention": "Prevention",
+          "caregivers": "Caregivers"
+        },
+        "title": "HOW TO AVOID BURNOUT AS A FAMILY CAREGIVER"
+      }
+    }
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "fr": "FR",
+    "en": "EN"
+  }
+}

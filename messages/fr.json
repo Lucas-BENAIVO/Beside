@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "title": "Beside — Vous aidez votre proche. On vous aide à tenir.",
+    "description": "Beside aide les aidants familiaux à suivre la santé de leur proche, organiser les rendez-vous et partager la charge avec la famille."
+  },
+  "header": {
+    "brandTagline": "pour les aidants",
+    "nav": {
+      "features": "Fonctionnalités",
+      "mutualInsurance": "Mutuelles",
+      "companies": "Entreprises",
+      "contact": "Nous contacter"
+    },
+    "auth": {
+      "login": "Connexion",
+      "signup": "S'inscrire"
+    }
+  },
+  "home": {
+    "hero": {
+      "tags": {
+        "health": "Santé",
+        "organization": "Organisation",
+        "wellbeing": "Bien-être"
+      },
+      "headline": "VOUS AIDEZ VOTRE PROCHE. ON VOUS AIDE À TENIR.",
+      "highlightedWords": ["PROCHE", "TENIR"],
+      "description": "Beside centralise médicaments, rendez-vous et alertes pour les aidants qui jonglent avec le travail, la famille et la santé d'un parent.",
+      "ctaPrimary": "Commencer gratuitement",
+      "ctaSecondary": "Découvrir",
+      "mainStat": "Aidants accompagnés chaque mois",
+      "imageCaption": "Moins de stress, plus de sérénité",
+      "sideLabel": "Parcours aidant",
+      "exploreLabel": "Explorer les aides",
+      "sideStat": "Rappels médicaments gérés en moyenne par semaine",
+      "sideTags": {
+        "prevention": "Prévention",
+        "autonomy": "Autonomie"
+      },
+      "emailAria": "Recevoir des conseils par e-mail",
+      "scrollAria": "Défiler vers le bas"
+    },
+    "images": {
+      "mainAlt": "Femme senior souriante dans son salon",
+      "sideAlt": "Aidant organisant le suivi médical sur ordinateur",
+      "portraitAlt": "Femme professionnelle, profil type aidant familial"
+    },
+    "showcase": {
+      "items": {
+        "medications": {
+          "title": "Suivi médicaments",
+          "category": "Rappels",
+          "description": "Ne manquez plus une prise ni un renouvellement d'ordonnance."
+        },
+        "appointments": {
+          "title": "Rendez-vous",
+          "category": "Organisation",
+          "description": "Calendrier partagé avec la famille pour les consultations."
+        },
+        "family": {
+          "title": "Réseau familial",
+          "category": "Partage",
+          "description": "Répartissez les tâches et évitez de tout porter seul."
+        }
+      },
+      "article": {
+        "tags": {
+          "prevention": "Prévention",
+          "caregivers": "Aidants"
+        },
+        "title": "COMMENT ÉVITER L'ÉPUISEMENT QUAND ON EST AIDANT FAMILIAL"
+      }
+    }
+  },
+  "languageSwitcher": {
+    "label": "Langue",
+    "fr": "FR",
+    "en": "EN"
+  }
+}

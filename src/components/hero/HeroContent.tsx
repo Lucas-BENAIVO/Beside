@@ -1,11 +1,17 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import type { HeroData } from "@/types/home";
 import { HeroTags } from "./HeroTags";
 
 type HeroContentProps = {
   data: Pick<
     HeroData,
-    "tags" | "headline" | "highlightedWords" | "description" | "ctas"
+    | "tags"
+    | "headline"
+    | "highlightedWords"
+    | "description"
+    | "ctas"
+    | "emailAria"
+    | "scrollAria"
   >;
 };
 
@@ -65,7 +71,7 @@ export function HeroContent({ data }: HeroContentProps) {
       <div className="mt-8 flex items-center gap-3">
         <button
           type="button"
-          aria-label="Recevoir des conseils par e-mail"
+          aria-label={data.emailAria}
           className="flex size-10 items-center justify-center rounded-full border border-border text-foreground/70 transition-colors hover:border-foreground/20 hover:text-foreground"
         >
           <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" className="size-4">
@@ -80,7 +86,7 @@ export function HeroContent({ data }: HeroContentProps) {
         </button>
         <button
           type="button"
-          aria-label="Défiler vers le bas"
+          aria-label={data.scrollAria}
           className="flex size-10 items-center justify-center rounded-full border border-border text-foreground/70 transition-colors hover:border-foreground/20 hover:text-foreground"
         >
           <svg viewBox="0 0 20 20" fill="none" aria-hidden="true" className="size-4">

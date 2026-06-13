@@ -1,5 +1,5 @@
+import { Link } from "@/i18n/navigation";
 import Image from "next/image";
-import Link from "next/link";
 import type { HeroSideBlock } from "@/types/home";
 import { ArrowUpRightIcon } from "@/components/icons";
 import { GlassCard } from "./GlassCard";
